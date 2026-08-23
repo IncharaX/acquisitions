@@ -1,0 +1,2 @@
+{"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:06:56.825Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:06:56 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.134.0 Chrome/148.0.7778.280 Electron/42.8.1 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-08-23T07:06:56.833Z"}
