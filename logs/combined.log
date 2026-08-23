@@ -1,2 +1,16 @@
 {"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:06:56.825Z"}
 {"level":"info","message":"::1 - - [23/Aug/2026:07:06:56 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.134.0 Chrome/148.0.7778.280 Electron/42.8.1 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-08-23T07:06:56.833Z"}
+{"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:10:23.905Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:10:23 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.134.0 Chrome/148.0.7778.280 Electron/42.8.1 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-08-23T07:10:23.906Z"}
+{"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:32:58.771Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:32:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.134.0 Chrome/148.0.7778.280 Electron/42.8.1 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-08-23T07:32:58.777Z"}
+{"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:33:01.908Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:33:01 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.134.0 Chrome/148.0.7778.280 Electron/42.8.1 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-08-23T07:33:01.910Z"}
+{"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:33:12.079Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:33:12 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.134.0 Chrome/148.0.7778.280 Electron/42.8.1 Safari/537.36\"","service":"acquisition-api","timestamp":"2026-08-23T07:33:12.084Z"}
+{"level":"info","message":"Hello from acquisitions","service":"acquisition-api","timestamp":"2026-08-23T07:39:45.191Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:39:45 +0000] \"GET / HTTP/1.1\" 200 23 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:39:45.216Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:40:22 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:40:22.564Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:40:38 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:40:38.584Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:41:00 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:41:00.844Z"}
+{"level":"info","message":"::1 - - [23/Aug/2026:07:41:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:41:57.573Z"}
