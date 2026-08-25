@@ -15,3 +15,4 @@
 {"level":"info","message":"::1 - - [23/Aug/2026:07:41:00 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:41:00.844Z"}
 {"level":"info","message":"::1 - - [23/Aug/2026:07:41:57 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.52.0\"","service":"acquisition-api","timestamp":"2026-08-23T07:41:57.573Z"}
 {"level":"info","message":"::1 - - [25/Aug/2026:04:59:43 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.56.1\"","service":"acquisition-api","timestamp":"2026-08-25T04:59:43.316Z"}
+{"level":"info","message":"::1 - - [25/Aug/2026:09:35:02 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.56.1\"","service":"acquisition-api","timestamp":"2026-08-25T09:35:02.246Z"}
